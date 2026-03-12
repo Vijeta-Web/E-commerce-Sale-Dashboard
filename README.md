@@ -7,9 +7,9 @@
 ---
 
 ## 🎯 Problem Statement
-The objective was to create a Sales Dashboard that provides:
+The objective was to create a Sales dashboard that provides:
 
-- YTD Sales, YTD Profit, YTD Quantity Sold, and YTD Profit Margin
+- YTD Sales, YTD Profit, YTD Quantity, and YTD Profit Margin
 - Year-over-Year (YoY) growth comparison for each KPI
 - Monthly sales trend using sparklines
 - Sales performance by Category and Customer Segment
@@ -87,7 +87,7 @@ The objective was to create a Sales Dashboard that provides:
 
 ## 🚀 Business Impact
 
-This dashboard enables management to:
+This dashboard enables management teams to:
 - Monitor real-time performance  
 - Identify growth opportunities  
 - Detect underperforming segments  
