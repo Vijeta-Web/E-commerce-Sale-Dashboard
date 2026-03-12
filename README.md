@@ -1,10 +1,9 @@
 # 📊 E-Commerce Sales Performance Dashboard
+🔗 [View Full Dashboard Image](https://github.com/Vijeta-Web/E-commerce-Sale-Dashboard/blob/main/E-commerce-Sale%20Dashboard.png)
 
 ## 📌 Project Overview
-This project focuses on building an interactive Sales Dashboard for a US-based E-Commerce company to analyze Year-to-Date (YTD) performance and generate actionable business insights.
-
-The solution was developed using Excel, PostgreSQL, and Power BI, following an end-to-end data analysis workflow.
-
+- This project focuses on building an interactive sales dashboard for a US-based e-commerce company to analyze Year-to-Date (YTD) performance and generate actionable business insights.
+- The project was developed using Excel, PostgreSQL, and Power BI, following an end-to-end data analysis workflow.
 ---
 
 ## 🎯 Problem Statement
