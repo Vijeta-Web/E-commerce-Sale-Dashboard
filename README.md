@@ -1,5 +1,5 @@
 # 📊 E-Commerce Sales Performance Dashboard
-🔗 [View Full Dashboard Image](https://github.com/Vijeta-Web/E-commerce-Sale-Dashboard/blob/main/E-commerce-Sale%20Dashboard.png)
+🔗 [View Full Dashboard Image] (E-commerce-Sale%20Dashboard.png)
 
 ## 📌 Project Overview
 - This project focuses on building an interactive sales dashboard for a US-based e-commerce company to analyze Year-to-Date (YTD) performance and generate actionable business insights.
